@@ -1,5 +1,21 @@
 {
   "dependencies": {
-    "inquirer": "^8.2.4"
-  }
+    "inquirer": "^8.2.4",
+    "jest": "^29.6.3"
+  },
+  "name": "logo-generator",
+  "description": "This is a Node.js application that generates a professional README.md file from the CLI, using Inquirer.js version 8.2.4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+  
 }
