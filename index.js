@@ -61,6 +61,12 @@ const promptInquirer = async () => {
 
             }
         ])
-        result = createSVG(data);
+        const result = createSVG(data);
+        
+        //fs.promises.writeFile() to the ./dist folder
+        await writeFile('./dist/logo.svg', result);
+            console.log('SVG logo generated!')
+    } catch (error) {
+        console.log(error);
     }
 } 
