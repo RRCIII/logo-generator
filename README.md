@@ -19,7 +19,7 @@ This is a logo generator to that allows the user to input criteria that will gen
 
 - #### Clone the repository
 
-<img width="400px" height="300px" src="./utils/Screenshot-logoGenerator-repository.png/><br/>
+<img width="400px" height="300px" src="<./utils/Screenshot-logoGenerator-repository.png/><br/>
 
 - #### Open up a terminal and change directories into the repo. Type in:
 
