@@ -1,7 +1,6 @@
 const inquirer = require('inquirer');
 const { writeFile } = require('fs').promises;
 const createSVG = require('./lib/createSVG');
-const { throwError } = require('rxjs');
 const validateColor = require('validate-color').default;
 
 const promptInquirer = async () => {
