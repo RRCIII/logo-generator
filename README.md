@@ -45,3 +45,7 @@ npm run test
 ## Credits
 
 - UNC bootcamp collegues, Youtube, and chatGPT
+
+## License
+
+This application is covered under the [MIT License](./LICENSE)
