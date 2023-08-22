@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a Node.js application that generates a professional README.md file from the CLI, using Inquirer.js version 8.2.4
+This is a logo generator to that allows the user to input criteria that will generate a logo upon results given from the prompts proposed. With the use of jest, inquirer, and validate-color installed, the code was able to be tested and written to a file to generate a SVG logo.
 
 ## Video Demonstration of Application
 
