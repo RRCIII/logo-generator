@@ -6,7 +6,7 @@ This is a logo generator to that allows the user to input criteria that will gen
 
 ## Video Demonstration of Application
 
-- [Click Here](https://drive.google.com/file/d/1STJNx7WALSDPqV_M8ehWdmBSrmldN3oC/view)
+- [Click Here](https://drive.google.com/file/d/1IF8s-svOPZ1jWGHl2FDbLKai0Vpwn3Z5/view)
 
 ## Installation
 
@@ -36,11 +36,11 @@ npm run test
 
 - #### Input the following information to create your logo
 
-<img width="650px" src="./utils/Screenshot-logoGenerator-prompt.png" /><br/>
+<img width="650px" src="./utils/Logo_generator_prompt.png" /><br/>
 
 - #### Logo file will be built into the dist folder upon completion
 
-<img width="230px" src="./utils/Screenshot-logoGenerator-logo.png" />
+<img width="230px" src="./utils/Logo_generator_UNC.png" />
 
 ## Credits
 
